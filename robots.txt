@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Indicar donde está el mapa
+Sitemap: https://sebgames.github.io/Value-car-PRO/
